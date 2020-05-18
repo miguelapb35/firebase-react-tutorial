@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firebase-react-tutorial/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/firebase-react-tutorial/static/js/main.be845edf.chunk.js",
+    "main.js.map": "/firebase-react-tutorial/static/js/main.be845edf.chunk.js.map",
+    "runtime-main.js": "/firebase-react-tutorial/static/js/runtime-main.34af1d79.js",
+    "runtime-main.js.map": "/firebase-react-tutorial/static/js/runtime-main.34af1d79.js.map",
+    "static/js/2.b2e6b705.chunk.js": "/firebase-react-tutorial/static/js/2.b2e6b705.chunk.js",
+    "static/js/2.b2e6b705.chunk.js.map": "/firebase-react-tutorial/static/js/2.b2e6b705.chunk.js.map",
+    "index.html": "/firebase-react-tutorial/index.html",
+    "precache-manifest.f5b0e1904aadb1a7e085fde239ff8904.js": "/firebase-react-tutorial/precache-manifest.f5b0e1904aadb1a7e085fde239ff8904.js",
+    "service-worker.js": "/firebase-react-tutorial/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/firebase-react-tutorial/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b2e6b705.chunk.js.LICENSE.txt": "/firebase-react-tutorial/static/js/2.b2e6b705.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34af1d79.js",
+    "static/js/2.b2e6b705.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.be845edf.chunk.js"
+  ]
+}
